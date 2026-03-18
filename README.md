@@ -1,68 +1,77 @@
-<h1 align="center">Hi 👋, I'm Kartik Sharma (SPARKEDIX)</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=557CF2&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Python+Developer;AI+Engineer+(OMNIX+%26+SPARKI);100+Days+of+Ethical+Hacking" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=SYSTEM+STATUS%3A+SPARKEDIX+ACTIVE;BREACHING+THE+MAINFRAME...;OMNIX+AI+NEURAL+LINK+ESTABLISHED;100+DAYS+OF+ETHICAL+HACKING" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kartiksh2007&label=PROFILE+VIEWS&color=557CF2&style=flat" alt="Views" />
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon-line.gif" width="100%">
 </p>
 
----
-
-### 🛡️ About Me
-- 🎓 Currently pursuing **BCA** at **SKIET (Kurukshetra University)**.
-- 💻 Specialized in **Ethical Hacking**, **Penetration Testing**, and **Automation**.
-- 🚀 Creator of **OMNIX AI** and **SPARKI** (Next-gen AI Assistants).
-- 📺 Running **[Sparkedix YouTube Channel](https://youtube.com/@SPARKEDIX)** for Tech Education.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kartiksh2007&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiksh2007&theme=tokyonight&layout=compact&hide_border=true&title_color=00FF41&text_color=ffffff" width="300" />
+</div>
 
 ---
 
-### 🌐 Social Connectivity
+### 🕵️‍♂️ [TERMINAL_LOG]: Secure_Entry
+- **USER:** Kartik Sharma (Alias: **SPARKEDIX**)
+- **STATUS:** Elite Penetration Tester & AI Architect.
+- **FIELD:** Cybersecurity, Neural Networks, and Autonomous Systems.
+- **CURRENT_OPS:** `SPARKI-CORE` (Advanced Remote Access & AI Logic).
+- **MISSION:** Automating Red-Teaming Operations using Custom Python Exploits.
+
+---
+
+### 🧪 The AI Arsenal & Core Tech
 <p align="left">
-<a href="https://instagram.com/kartiksharma._2007" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="kartiksharma._2007" /></a>
-<a href="https://youtube.com/@SPARKEDIX" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="@SPARKEDIX" /></a>
-<a href="mailto:kartiknaveen2007@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GIT-E1471D?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+
+
 ---
 
-### 💻 Tech Stack & Tools
+### 🛠️ The Arsenal (Tools of the Trade)
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557CF2?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-7F1F7F?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4E9A06?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
 ---
 
-### 📊 System Analytics
+### 📡 System Activity (Neural Sync)
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kartiksh2007&theme=radical&show_icons=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiksh2007&theme=radical&layout=compact" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kartiksh2007&theme=tokyonight&hide_border=true&stroke=00FF41" width="100%" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=kartiksh2007&theme=radical" />
-</p>
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kartiksh2007&theme=radical&no-frame=false&margin-w=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartiksh2007&theme=tokyonight&area=true&hide_border=true&color=00FF41" width="100%" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Synapse (Hacker Snake)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kartiksh2007/kartiksh2007/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/kartiksh2007/kartiksh2007/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<p align="center"> 
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+---
+
+### 🔗 Connect_Via_Secure_Channel
+<p align="center">
+  <a href="https://youtube.com/@SPARKEDIX"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/kartiksharma._2007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:kartiknaveen2007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer&text=SYSTEM_ENCRYPTED_BY_SPARKEDIX&fontSize=20&fontColor=00FF41" width="100%"/>
 </p>
