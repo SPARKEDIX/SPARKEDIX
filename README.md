@@ -39,23 +39,31 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Neural_Networks-00f0ff?style=for-the-badge&logo=deepmind&logoColor=black" />
+<img src="https://img.shields.io/badge/LLM_Optimization-FFD700?style=for-the-badge&logo=openai&logoColor=black" />
 <img src="https://img.shields.io/badge/Agentic_RAG-FFD700?style=for-the-badge&logo=openai&logoColor=black" />
-<img src="https://img.shields.io/badge/Vector_DB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MCP_Servers-00f0ff?style=for-the-badge&logo=mcp&logoColor=black" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pentesting-RedTeam-E31012?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Malware_Analysis-000000?style=for-the-badge&logo=hackthebox&logoColor=00f0ff" />
+<img src="https://img.shields.io/badge/Network_Security-00f0ff?style=for-the-badge&logo=wireshark&logoColor=black" />
+<img src="https://img.shields.io/badge/Cyber_Security-E31012?style=for-the-badge&logo=checkpoint&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector_DB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Verified_Architect-Certified-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Open_Source-Contributor-eb0000?style=for-the-badge&logo=github&logoColor=white" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash_Automation-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Cyber_Security-E31012?style=for-the-badge&logo=checkpoint&logoColor=white" />
-
-<br/>
-
 <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=diagrams.net&logoColor=00f0ff" />
-<img src="https://img.shields.io/badge/Git_Infiltration-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
