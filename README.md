@@ -71,8 +71,8 @@
 
 ### 📊 System Metrics & Uplink
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiksh2007&theme=tokyonight&layout=compact&hide_border=true&title_color=00f0ff&text_color=ffffff&border_radius=10" height="150px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kartiksh2007&theme=tokyonight&hide_border=true&ring=00f0ff&sideNums=00f0ff&background=000000" height="150px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPARKEDIX&theme=tokyonight&layout=compact&hide_border=true&title_color=00f0ff&text_color=ffffff&border_radius=10" height="150px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SPARKEDIX&theme=tokyonight&hide_border=true&ring=00f0ff&sideNums=00f0ff&background=000000" height="150px" />
 </p>
 
 <p align="center">
