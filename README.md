@@ -1,86 +1,141 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=280&section=header&text=KARTIK%20SHARMA&fontSize=80&fontColor=00f0ff&animation=glitch&desc=AI%20ENGINEER%20|%20TOOLS%20DEVELOPER&descSize=25&descAlignVertical=65" width="100%"/>
-</p>
-
-<h2 align="center"> ⚡ PROJECT MANAGER & ARCHITECT ⚡ </h2>
-<p align="center">
-  <b>KARTIK SHARMA</b><br>
-  <i>AI Engineer & Tools Developer with Deep Cyber Security Knowledge</i><br>
-  Building the next generation of <b>Agentic AI</b> and <b>Automated Security Tools</b>.
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00f0ff&center=true&vCenter=true&width=900&lines=%5B%E2%9C%93%5D+SYSTEM+UPLINK+READY;%5B%E2%9C%93%5D+AGENTIC+RAG+PIPELINES+ACTIVE;%5B%E2%9C%93%5D+KERNEL+TUNING+OPTIMIZED;%5B%E2%9C%93%5D+WELCOME%2C+OPERATOR." alt="Typing SVG" />
-</h1>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon-line.gif" width="100%">
-</p>
-
----
-
-### 🌑 [ROOT@SPARKEDIX]: ~# Initialize_Terminal
-> **"I build AI that doesn't just talk, it executes. I live in the TTY."**
-
 <div align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              BACKGROUND VIDEO (GIF) + HEADER                  -->
+<!--  GitHub strips iframes/videos. GIF is the only way to loop.   -->
+<!--  Your YouTube video: https://youtu.be/Z8FBnz6USIM              -->
+<!--  Convert it to GIF & host on your repo for exact footage.      -->
+<!--  Below: High-quality futuristic HUD GIF as placeholder.        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-| **CORE TECH** | **INFRASTRUCTURE** | **CONTROL** |
-| :--- | :--- | :--- |
-| `Python / Mojo` | `Kali Linux` | `Git` |
-| `RAG / Agentic RAG` | `Arch Linux` | `GitHub Elite` |
-| `MCP Servers` | `Bash Scripting` | `System Design` |
-| `Vector DB` | `Linux Kernel` | `Cyber Security` |
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        NAME HEADER                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:00111c,100:00d4ff&height=220&section=header&text=KARTIK%20SHARMA&fontSize=60&fontColor=00d4ff&animation=fadeIn&desc=AI%20ENGINEER%20%7C%20CYBER%20SECURITY%20%7C%20FULL%20STACK%20%7C%20DEVOPS&descSize=16&descAlignY=75&fontAlignY=40" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      STATUS SEQUENCE                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+autonomous+agentic+systems.;Architecting+secure+infrastructure.;Shipping+production-grade+AI+at+scale." alt="typing"/>
+
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      IDENTITY BADGES                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://img.shields.io/badge/AI%20ENGINEER-00D4FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/CYBER%20SECURITY-E31012?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/FULL%20STACK-00D4FF?style=for-the-badge&logo=react&logoColor=black&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/DEVOPS-FFD700?style=for-the-badge&logo=docker&logoColor=black&labelColor=0a0a0a"/>
 </div>
 
----
-
-### 🧠 Tactical Arsenal (Weaponized Stack)
-
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CAPABILITY MATRIX                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-
-<img src="https://img.shields.io/badge/Neural_Networks-00f0ff?style=for-the-badge&logo=deepmind&logoColor=black" />
-<img src="https://img.shields.io/badge/LLM_Optimization-FFD700?style=for-the-badge&logo=openai&logoColor=black" />
-<img src="https://img.shields.io/badge/Agentic_RAG-FFD700?style=for-the-badge&logo=openai&logoColor=black" />
-<img src="https://img.shields.io/badge/MCP_Servers-00f0ff?style=for-the-badge&logo=mcp&logoColor=black" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Pentesting-RedTeam-E31012?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Malware_Analysis-000000?style=for-the-badge&logo=hackthebox&logoColor=00f0ff" />
-<img src="https://img.shields.io/badge/Network_Security-00f0ff?style=for-the-badge&logo=wireshark&logoColor=black" />
-<img src="https://img.shields.io/badge/Cyber_Security-E31012?style=for-the-badge&logo=checkpoint&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector_DB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Verified_Architect-Certified-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
-<img src="https://img.shields.io/badge/Open_Source-Contributor-eb0000?style=for-the-badge&logo=github&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash_Automation-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=diagrams.net&logoColor=00f0ff" />
-
+◈ CAPABILITY MATRIX ◈
 </div>
 
----
+<table align="center">
+<tr>
+<td width="25%" valign="top">
+AI / ML / AGENTS
 
-### 📊 System Metrics & Uplink
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPARKEDIX&theme=tokyonight&layout=compact&hide_border=true&title_color=00f0ff&text_color=ffffff&border_radius=10" height="150px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SPARKEDIX&theme=tokyonight&hide_border=true&ring=00f0ff&sideNums=00f0ff&background=000000" height="150px" />
-</p>
+    Agentic RAG Pipelines
+    LLM Optimization & Fine-Tuning
+    MCP Servers & Tooling
+    Vector Databases
+    Neural Network Architecture
+    Mojo & High-Performance ML
 
-<p align="center">
-  <a href="https://youtube.com/@SPARKEDIX"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/kartiksharma._2007"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+</td>
+<td width="25%" valign="top">
+CYBER SECURITY
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer&text=OPTIMIZED_BY_SPARKEDIX&fontSize=20&fontColor=00f0ff&animation=fadeIn" width="100%"/>
-</p>
+    Red Team Operations
+    Malware Analysis & Reverse Eng
+    Network Security & Recon
+    Linux Kernel Hardening
+    Penetration Testing
+    Threat Intelligence
+
+</td>
+<td width="25%" valign="top">
+FULL STACK
+
+    React / Next.js / TypeScript
+    Node.js / Python / Go
+    PostgreSQL / MongoDB / Redis
+    REST & GraphQL APIs
+    System Design & Architecture
+    Real-time Applications
+
+</td>
+<td width="25%" valign="top">
+DEVOPS & INFRA
+
+    Docker & Kubernetes
+    CI/CD Pipelines (GitHub Actions)
+    AWS / GCP / Cloud Architecture
+    Terraform & IaC
+    Linux Kernel Tuning
+    Bash Automation & Monitoring
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    TECH STACK HUD                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+◈ TECH STACK ◈
+
+<img src="https://skillicons.dev/icons?i=python,go,js,ts,mojo,react,nextjs,nodejs,html,css,tailwind,postgres,mongodb,redis,graphql,docker,kubernetes,terraform,aws,gcp,linux,bash,git,github,vscode,neovim&perline=13&theme=dark"/>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    SYSTEM METRICS                             -->
+<!--  FIXED: Removed broken streak-stats, activity-graph, trophy   -->
+<!--  These 3 were the ones not showing. Kept only reliable ones.  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+◈ SYSTEM METRICS ◈
+
+<img src="https://github-readme-stats.vercel.app/api?username=SPARKEDIX&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00D4FF&icon_color=FFD700&text_color=e0e0e0&border_radius=12&include_all_commits=true&count_private=true" height="190px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPARKEDIX&theme=radical&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00D4FF&text_color=e0e0e0&border_radius=12&langs_count=10" height="190px"/>
+
+
+<!-- Contribution Snake — reliable & animated -->
+<img src="https://raw.githubusercontent.com/SPARKEDIX/SPARKEDIX/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    UPLINK CHANNELS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+◈ UPLINK ◈
+
+<a href="https://youtube.com/@SPARKEDIX">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0a0a0a"/>
+</a>
+<a href="https://instagram.com/kartiksharma._2007">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a"/>
+</a>
+<a href="https://github.com/SPARKEDIX">
+  <img src="https://img.shields.io/badge/GitHub-00D4FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a"/>
+</a>
+<a href="mailto:contact@sparkedix.io">
+  <img src="https://img.shields.io/badge/Secure%20Mail-FFD700?style=for-the-badge&logo=protonmail&logoColor=black&labelColor=0a0a0a"/>
+</a>
+
+
+<img src="https://komarev.com/ghpvc/?username=SPARKEDIX&color=00d4ff&style=for-the-badge&label=VISITS"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00d4ff?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0a0a0a"/>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        FOOTER                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:00111c,100:000000&height=120&section=footer&text=SPARKEDIX&fontSize=24&fontColor=00d4ff&animation=fadeIn&desc=Engineered%20for%20the%20future.&descSize=13&descAlignY=80" width="100%"/>
+</div>
