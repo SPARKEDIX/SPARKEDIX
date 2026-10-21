@@ -1,5 +1,9 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Kartik" title="👋 Hi there! I'm Kartik"/>
-<div align="justify">
+<!-- MATRIX GREEN NAME HEADER -->
+<a href="https://github.com/SPARKEDIX">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=70&lines=KARTIK+SHARMA+%3A%3A+SPARKEDIX;AI+Engineer+%7C+Full+Stack+%7C+Cybersecurity" alt="Kartik Sharma Typing Header" />
+</a>
+
+<div align="center">
 
 <a href="https://github.com/SPARKEDIX">
 <img src="https://img.shields.io/badge/GitHub-030d05?style=for-the-badge&logo=github&logoColor=00ff66&labelColor=030d05&color=00ff66">
@@ -20,7 +24,7 @@
 </div>
 <p></p>
 <p align="justify">
-Welcome to my GitHub profile! I am <b>Kartik Sharma</b> (SPARKEDIX), an AI Engineer, Full-Stack Developer, and Cybersecurity enthusiast based in Kurukshetra, India. Currently pursuing a BCA degree at Kurukshetra University, I specialize in building agentic AI pipelines, fine-tuning open-weight models like NeuralCraft-8B, and architecting robust full-stack applications and secure systems like REYA and Memora.
+Welcome to my GitHub profile! I am <b>Kartik Sharma</b> (SPARKEDIX), an AI Engineer, Full-Stack Developer, and Cybersecurity enthusiast. I specialize in building agentic AI pipelines, fine-tuning open-weight models like NeuralCraft-8B, and architecting robust full-stack applications and secure systems like REYA and Memora.
 </p>
 
 ## Technical Armory ⚙️
